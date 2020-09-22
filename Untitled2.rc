@@ -1,0 +1,17 @@
+DICO ICON res\Coin.ico
+
+BK0 BITMAP res\background_0.bmp
+BK1 BITMAP res\background_1.bmp
+BK2 BITMAP res\background_2.bmp
+
+TITLE BITMAP res\title.bmp
+
+BUTTON0 BITMAP res\button_0.bmp
+BUTTON1 BITMAP res\button_1.bmp
+BUTTON2 BITMAP res\button_2.bmp
+BUTTON3 BITMAP res\button_3.bmp
+
+COIN BITMAP res\coin.bmp
+BATTERY BITMAP res\battery.bmp
+PENGUIN BITMAP res\penguin.bmp
+SHELL BITMAP res\shell.bmp
